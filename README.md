@@ -26,20 +26,20 @@ The goal is to develop a clear, hands-on understanding of the different spaces u
 
 ---
 
-## 🛠 Tech Stack
+## 🛠 Tools
 
 - **Metal-C++**: Apple's Metal shading language in C++
 - **CMake**: Cross-platform build system
 - **GLFW**: Window and input management
 - **Eigen**: Linear algebra library for matrix/vector math
-- **CLion / VSCode**: Development environments
+- **CLion**: Development environments
 
 ---
 
 ## 🚀 Goals
 
 - Build a minimal renderer that clearly shows how objects transform through the pipeline.
-- Write my own transform functions (no hidden magic).
+- Write my own transform functions.
 - Learn how Metal handles coordinate systems compared to OpenGL/DirectX/Vulkan.
 - Log or visualize each space as vertices are transformed through the pipeline.
 
