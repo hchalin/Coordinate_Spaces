@@ -1,0 +1,25 @@
+# Ignore build directories
+/build/
+/cmake-build-debug/
+/cmake-build-release/
+
+# Ignore CLion specific files
+.idea/
+*.iml
+
+# Ignore OS-specific files
+.DS_Store
+Thumbs.db
+
+# Ignore compiled files
+*.o
+*.obj
+*.exe
+*.out
+*.app
+*.dSYM
+
+# Ignore logs and temporary files
+*.log
+*.tmp
+*.name
